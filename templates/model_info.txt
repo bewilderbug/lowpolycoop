@@ -1,5 +1,13 @@
 [Model Name]
 
+// Guidelines
+/// We prefer .blend files for the base model
+/// UV maps and texture files should be 512x512, 1024x1024 or 2048x2048
+/// Images should be jpg or png format
+/// Please do not commit layered psd or xcf files, just the final images
+/// Additional model formats are welcome
+/// Most importantly -- Only submit work you have created
+
 // STATUS //
 // Update these to one of the following status settings //
 // not started
@@ -14,10 +22,13 @@ Diffuse texture map: not started
 Added to repo: not started
 
 // FILE INFO //
+// Fill in whatever makes sense
 Created by: [add name to list as you would like to be credited]
-Model filename:
+Source image:
+Base model filename:
 UV map file name:
 Diffuse texture filename:
+Screenshot filename:
 [add additional file formats and names]
 
 // NOTES //
