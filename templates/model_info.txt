@@ -1,0 +1,24 @@
+[Model Name]
+
+// STATUS //
+// Update these to one of the following status settings //
+// not started
+// claimed (user name)
+// in progress (user name)
+// complete (user name)
+
+Model created: not started
+UV unwrapped: not started
+UV file made: not started
+Diffuse texture map: not started
+Added to repo: not started
+
+// FILE INFO //
+Created by: [add name to list as you would like to be credited]
+Model filename:
+UV map file name:
+Diffuse texture filename:
+[add additional file formats and names]
+
+// NOTES //
+[Add any additional notes]
