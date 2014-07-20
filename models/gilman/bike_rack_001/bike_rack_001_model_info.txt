@@ -15,21 +15,20 @@
 // in progress (user name)
 // complete (user name)
 
-Model created: not started
-UV unwrapped: not started
-UV file made: not started
-Diffuse texture map: not started
-Added to repo: not started
+Model created: complete
+UV unwrapped: complete
+UV file made: complete
+Diffuse texture map: complete
+Added to repo: complete
 
 // FILE INFO //
 // Fill in whatever makes sense
-Created by: [add name to list as you would like to be credited]
-Source image: 
-Base model filename: 
-Polys (specify tris or quads): 
-UV map file name: 
-Diffuse texture filename: 
-Screenshot filename: 
+Created by: Scott Hsu-Storaker
+Source image: bike_rack_001_source.jpg
+Base model filename: bike_rack_001.blend
+UV map file name: bike_rack_001_uv1024.png
+Diffuse texture filename: bike_rack_001_tx1024.png
+Screenshot filename: bike_rack_001_screen.jpg
 [add additional file formats and names]
 
 // NOTES //

@@ -26,7 +26,6 @@ Added to repo: not started
 Created by: [add name to list as you would like to be credited]
 Source image: 
 Base model filename: 
-Polys (specify tris or quads): 
 UV map file name: 
 Diffuse texture filename: 
 Screenshot filename: 
