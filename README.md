@@ -1,4 +1,4 @@
-lowpolycoop git.io/i9c8-w
+lowpolycoop bewilderbug.github.io/lowpolycoop
 ===========
 
 A collection of Low Poly 3D models for you to use in prototyping games.
