@@ -2,7 +2,8 @@
 
 // Guidelines
 /// We prefer .blend files for the base model
-/// UV maps and texture files should be 512x512, 1024x1024 or 2048x2048
+/// Texture files should be 512x512
+/// UV Map templates should be 1024 x 1024
 /// Images should be jpg or png format
 /// Please do not commit layered psd or xcf files, just the final images
 /// Additional model formats are welcome
