@@ -1,0 +1,37 @@
+[Model Name]
+
+// Guidelines
+/// We prefer .blend files for the base model
+/// Texture files should be 512x512
+/// UV Map templates should be 1024 x 1024
+/// Images should be jpg or png format
+/// Please do not commit layered psd or xcf files, just the final images
+/// Additional model formats are welcome
+/// Most importantly -- Only submit work you have created
+
+// STATUS //
+// Update these to one of the following status settings //
+// not started
+// claimed (user name)
+// in progress (user name)
+// complete (user name)
+
+Model created: complete (Emily Huffman)
+UV unwrapped: complete (Emily Huffman)
+UV file made: complete (Emily Huffman)
+Diffuse texture map: complete (Emily Huffman and bewilderbug)
+Added to repo: complete
+
+// FILE INFO //
+// Fill in whatever makes sense
+Created by: Emily Huffman, Scott Hsu-Storaker
+Source image: cafe_table_001_source.jpg
+Base model filename: cafe_table_001.blend
+Polys (specify tris or quads): 552
+UV map file name: cafe_table_uv1024.png
+Diffuse texture filename: cafe_table_001_tx512.png
+Screenshot filename: 
+[add additional file formats and names]
+
+// NOTES //
+[Add any additional notes]
