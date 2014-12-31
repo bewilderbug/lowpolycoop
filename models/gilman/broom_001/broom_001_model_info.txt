@@ -27,7 +27,7 @@ Added to repo: complete
 Created by: Terrence M, Scott Hsu-Storaker
 Source image: 
 Base model filename: broom_001.blend
-Polys (specify tris or quads): 59
+Polys (specify tris or quads): 106 tris
 UV map file name: broom_001_uv1024.png
 Diffuse texture filename: broom_001_tx512.png
 Screenshot filename: 

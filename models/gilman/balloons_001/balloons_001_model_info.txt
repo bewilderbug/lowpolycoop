@@ -27,7 +27,7 @@ Added to repo: complete
 Created by: Scott Hsu-Storaker
 Source image: balloons_001_source.jpg
 Base model filename: balloons_001.blend
-Polys (specify tris or quads): 350 quads
+Polys (specify tris or quads): 604 tris
 UV map file name: balloons_001_uv1024.png
 Diffuse texture filename: balloons_001_tx512.png
 Screenshot filename:

@@ -16,20 +16,20 @@
 // in progress (user name)
 // complete (user name)
 
-Model created: complete (Emily Huffman)
-UV unwrapped: complete (Emily Huffman)
-UV file made: complete (Emily Huffman)
-Diffuse texture map: complete (Emily Huffman and bewilderbug)
+Model created: complete (bewilderbug)
+UV unwrapped: complete (bewilderbug)
+UV file made: complete (bewilderbug)
+Diffuse texture map: complete (bewilderbug)
 Added to repo: complete
 
 // FILE INFO //
 // Fill in whatever makes sense
-Created by: Emily Huffman, Scott Hsu-Storaker
-Source image: cafe_table_001_source.jpg
-Base model filename: cafe_table_001.blend
-Polys (specify tris or quads): 552 tris
-UV map file name: cafe_table_uv1024.png
-Diffuse texture filename: cafe_table_001_tx512.png
+Created by: Scott Hsu-Storaker
+Source image:
+Base model filename: cinder_block_001.blend
+Polys (specify tris or quads): 164 tris
+UV map file name: cinder_block_uv1024.png
+Diffuse texture filename: cinder_block_001_tx512.png
 Screenshot filename: 
 [add additional file formats and names]
 

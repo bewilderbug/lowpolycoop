@@ -27,6 +27,7 @@ Added to repo: complete
 Created by: Scott Hsu-Storaker
 Source image: bike_rack_001_source.jpg
 Base model filename: bike_rack_001.blend
+Polys (specify tris or quads): 176 tris
 UV map file name: bike_rack_001_uv1024.png
 Diffuse texture filename: bike_rack_001_tx512.png
 Screenshot filename: bike_rack_001_screen.jpg
