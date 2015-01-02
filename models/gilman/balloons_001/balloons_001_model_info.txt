@@ -1,4 +1,4 @@
-[Model Name]
+balloons_001
 
 // Guidelines
 /// We prefer .blend files for the base model
