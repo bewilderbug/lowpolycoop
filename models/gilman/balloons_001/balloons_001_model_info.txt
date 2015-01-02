@@ -16,11 +16,11 @@ balloons_001
 // in progress (user name)
 // complete (user name)
 
-Model created: complete
-UV unwrapped: complete
-UV file made: complete
-Diffuse texture map: complete
-Added to repo: complete
+Model created: complete (bewilderbug)
+UV unwrapped: complete (bewilderbug)
+UV file made: complete (bewilderbug)
+Diffuse texture map: complete (bewilderbug)
+Added to repo: complete (bewilderbug)
 
 // FILE INFO //
 // Fill in whatever makes sense

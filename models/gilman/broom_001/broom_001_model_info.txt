@@ -20,7 +20,7 @@ Model created: complete (Terrence M)
 UV unwrapped: complete (bewilderbug)
 UV file made: complete (bewilderbug)
 Diffuse texture map: complete (Terrence M)
-Added to repo: complete
+Added to repo: complete (bewilderbug)
 
 // FILE INFO //
 // Fill in whatever makes sense

@@ -1,8 +1,8 @@
-bike_rack_001
+fence_001
 
 // Guidelines
 /// We prefer .blend files for the base model
-/// Texture files should be 512x512
+/// Texture files should be 512 x 512
 /// UV Map templates should be 1024 x 1024
 /// Images should be jpg or png format
 /// Please do not commit layered psd or xcf files, just the final images
@@ -25,13 +25,13 @@ Added to repo: complete (bewilderbug)
 // FILE INFO //
 // Fill in whatever makes sense
 Created by: Scott Hsu-Storaker
-Source image: bike_rack_001_source.jpg
-Base model filename: bike_rack_001.blend
-Polys (specify tris or quads): 176 tris
-UV map file name: bike_rack_001_uv1024.png
-Diffuse texture filename: bike_rack_001_tx512.png
-Screenshot filename: bike_rack_001_screen.jpg
+Source image: fence_001_source.jpg
+Base model filename: fence_001.blend
+Polys (specify tris or quads): 310 tris
+UV map file name: fence_001_uv1024.png
+Diffuse texture filename: fence_001_tx512.png
+Screenshot filename: fence_001_screen4.jpg, fence_001_screen5.jpg
 [add additional file formats and names]
 
 // NOTES //
-[Add any additional notes]
+fence_001_screen4.jpg shows how you can add multiple copies of the model in a row to create a whole fence.

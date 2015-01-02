@@ -20,7 +20,7 @@ Model created: complete (Emily Huffman)
 UV unwrapped: complete (Emily Huffman)
 UV file made: complete (Emily Huffman)
 Diffuse texture map: complete (Emily Huffman and bewilderbug)
-Added to repo: complete
+Added to repo: complete (bewilderbug)
 
 // FILE INFO //
 // Fill in whatever makes sense
