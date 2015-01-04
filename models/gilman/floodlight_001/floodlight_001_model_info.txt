@@ -1,0 +1,37 @@
+floodlight_001
+
+// Guidelines
+/// We prefer .blend files for the base model
+/// Texture files should be 512 x 512
+/// UV Map templates should be 1024 x 1024
+/// Images should be jpg or png format
+/// Please do not commit layered psd or xcf files, just the final images
+/// Additional model formats are welcome
+/// Most importantly -- Only submit work you have created
+
+// STATUS //
+// Update these to one of the following status settings //
+// not started
+// claimed (user name)
+// in progress (user name)
+// complete (user name)
+
+Model created: complete (bewilderbug)
+UV unwrapped: complete (bewilderbug)
+UV file made: complete (bewilderbug)
+Diffuse texture map: complete (bewilderbug)
+Added to repo: complete (bewilderbug)
+
+// FILE INFO //
+// Fill in whatever makes sense
+Created by: Scott Hsu-Storaker
+Source image: floodlight_001_source.jpg
+Base model filename: floodlight_001.blend
+Polys (specify tris or quads): 626 tris
+UV map file name: floodlight_001_uv1024.png
+Diffuse texture filename: floodlight_001_off_tx512.png, floodlight_001_on_tx512.png
+Screenshot filename: floodlight_001_off_screen.jpg, floodlight_001_on_screen.jpg
+[add additional file formats and names]
+
+// NOTES //
+The screenshots, floodlight_001_off_screen.jpg and floodlight_001_on_screen.jpg show what the model looks likes with the two alternate diffuse textures applied. The “on” version of the texture is an alternate that changes the coloring of the diffuse texture, however, this is a texture only and there are no other settings that affect the actual lighting on the model. The ‘off” version is defined as the default texture on the model.
