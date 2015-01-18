@@ -1,0 +1,37 @@
+meter_001
+
+// Guidelines
+/// We prefer .blend files for the base model
+/// Texture files should be 512x512
+/// UV Map templates should be 1024 x 1024
+/// Images should be jpg or png format
+/// Please do not commit layered psd or xcf files, just the final images
+/// Additional model formats are welcome
+/// Most importantly -- Only submit work you have created
+
+// STATUS //
+// Update these to one of the following status settings //
+// not started
+// claimed (user name)
+// in progress (user name)
+// complete (user name)
+
+Model created: complete (bewilderbug)
+UV unwrapped: complete (bewilderbug)
+UV file made: complete (bewilderbug)
+Diffuse texture map: complete (Terrance M)
+Added to repo: complete (bewilderbug)
+
+// FILE INFO //
+// Fill in whatever makes sense
+Created by: Terrance M, Scott Hsu-Storaker
+Source image: meter_001_source1.jpg, meter_001_source2.jpg
+Base model filename: meter_001.blend
+Polys (specify tris or quads): 490 tris
+UV map file name: meter_001_uv1024.png
+Diffuse texture filename: meter_001_tx512.png, meter_001_tx512_alpha.png
+Screenshot filename: 
+[add additional file formats and names]
+
+// NOTES //
+meter_001_tx512_alpha.png is a texture file that can be used to set transparency in the alpha channel of model textures. Depending on what 3D program or game engine you use the method for setting this will be different. The model provided in the repo is currently set to only use the base diffuse color texture, meter_001_tx512.png.
