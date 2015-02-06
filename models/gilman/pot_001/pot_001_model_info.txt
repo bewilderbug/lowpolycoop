@@ -1,0 +1,37 @@
+pot_001
+
+// Guidelines
+/// We prefer .blend files for the base model
+/// Texture files should be 512x512
+/// UV Map templates should be 1024 x 1024
+/// Images should be jpg or png format
+/// Please do not commit layered psd or xcf files, just the final images
+/// Additional model formats are welcome
+/// Most importantly -- Only submit work you have created
+
+// STATUS //
+// Update these to one of the following status settings //
+// not started
+// claimed (user name)
+// in progress (user name)
+// complete (user name)
+
+Model created: complete (bewilderbug)
+UV unwrapped: complete (bewilderbug)
+UV file made: complete (bewilderbug)
+Diffuse texture map: complete (Clint Herron)
+Added to repo: complete (bewilderbug)
+
+// FILE INFO //
+// Fill in whatever makes sense
+Created by: Clint Herron, Scott Hsu-Storaker
+Source image: pot_001_source.jpg
+Base model filename: pot_001.blend
+Polys (specify tris or quads): 208 tris
+UV map file name: pot_001_uv1024.png
+Diffuse texture filename: pot_001_tx512.png
+Screenshot filename:
+[add additional file formats and names]
+
+// NOTES //
+[Add any additional notes]
