@@ -29,7 +29,7 @@ Source image:
 Base model filename: rsandwich_board_001.blend
 Polys (specify tris or quads): 296 tris
 UV map file name: sandwich_board_001_uv1024.png
-Diffuse texture filename: sandwich_board_001_tx1024.png
+Diffuse texture filename: sandwich_board_001_tx512.png
 Screenshot filename:
 [add additional file formats and names]
 sandwich_board_001_screen.jpg
