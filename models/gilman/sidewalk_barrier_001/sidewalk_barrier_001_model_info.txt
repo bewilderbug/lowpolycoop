@@ -19,20 +19,20 @@ pot_001
 Model created: complete (bewilderbug)
 UV unwrapped: complete (bewilderbug)
 UV file made: complete (bewilderbug)
-Diffuse texture map: complete (Yaniv Pe'er)
+Diffuse texture map: complete (bewilderbug)
 Added to repo: complete (bewilderbug)
 
 // FILE INFO //
 // Fill in whatever makes sense
-Created by: Yaniv Pe'er, Scott Hsu-Storaker
+Created by: Scott Hsu-Storaker
 Source image: 
-Base model filename: sandwich_board_001.blend
-Polys (specify tris or quads): 296 tris
-UV map file name: sandwich_board_001_uv1024.png
-Diffuse texture filename: sandwich_board_001_tx512.png
+Base model filename: rsidewalk_barrier_001.blend
+Polys (specify tris or quads): 40 tris
+UV map file name: sidewalk_barrier_001_uv1024.png
+Diffuse texture filename: sidewalk_barrier_001_tx512.png
 Screenshot filename:
 [add additional file formats and names]
-sandwich_board_001_screen.jpg
+sidewalk_barrier_001_screen.jpg
 
 // NOTES //
 
