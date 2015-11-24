@@ -26,13 +26,13 @@ Added to repo: complete (bewilderbug)
 // Fill in whatever makes sense
 Created by: Scott Hsu-Storaker
 Source image: 
-Base model filename: sidewalk_barrier_001.blend
-Polys (specify tris or quads): 40 tris
-UV map file name: sidewalk_barrier_001_uv1024.png
-Diffuse texture filename: sidewalk_barrier_001_tx512.png
+Base model filename: sign_25mph_001.blend
+Polys (specify tris or quads): 108 tris
+UV map file name: sign_25mph_001_uv1024.png
+Diffuse texture filename: sign_25mph_001_tx512.png
 Screenshot filename:
 [add additional file formats and names]
-sidewalk_barrier_001_screen.jpg
+sign_25mph_001_screen.jpg
 
 // NOTES //
 
