@@ -1,4 +1,4 @@
-sign_25mph_001
+sign_crossing_001
 
 // Guidelines
 /// We prefer .blend files for the base model
@@ -26,13 +26,12 @@ Added to repo: complete (bewilderbug)
 // Fill in whatever makes sense
 Created by: Scott Hsu-Storaker
 Source image: 
-Base model filename: sign_25mph_001.blend
+Base model filename: sign_crossing_001.blend
 Polys (specify tris or quads): 108 tris
-UV map file name: sign_25mph_001_uv1024.png
-Diffuse texture filename: sign_25mph_001_tx512.png
+UV map file name: sign_crossing_001_uv1024.png
+Diffuse texture filename: sign_crossing_001_tx512.png
 Screenshot filename:
 [add additional file formats and names]
-sign_25mph_001_screen.jpg
 
 // NOTES //
 

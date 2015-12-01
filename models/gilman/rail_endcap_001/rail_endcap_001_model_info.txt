@@ -1,4 +1,4 @@
-pot_001
+rail_endcap_001
 
 // Guidelines
 /// We prefer .blend files for the base model
