@@ -25,7 +25,7 @@ Added to repo: complete (bewilderbug)
 // FILE INFO //
 // Fill in whatever makes sense
 Created by: Scott Hsu-Storaker
-Source image:
+Source image: sprinkler_001_source.jpg
 Base model filename: sprinkler_001.blend
 Polys (specify tris or quads): 264 tris
 UV map file name: sprinkler_001_uv1024.png
