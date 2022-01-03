@@ -1,4 +1,4 @@
-spigot_001
+sprinkler_001
 
 // Guidelines
 /// We prefer .blend files for the base model
@@ -19,18 +19,18 @@ spigot_001
 Model created: complete (bewilderbug)
 UV unwrapped: complete (bewilderbug)
 UV file made: complete (bewilderbug)
-Diffuse texture map: complete (Terrence M)
+Diffuse texture map: complete (bewilderbug)
 Added to repo: complete (bewilderbug)
 
 // FILE INFO //
 // Fill in whatever makes sense
-Created by: Terrence M, Scott Hsu-Storaker
-Source image: spigot_001_source.jpg
-Base model filename: spigot_001.blend
-Polys (specify tris or quads): 418 tris
-UV map file name: spigot_001_uv1024.png
-Diffuse texture filename: spigot_001_tx512.png
-Screenshot filename: spigot_001_screen.png
+Created by: Scott Hsu-Storaker
+Source image:
+Base model filename: sprinkler_001.blend
+Polys (specify tris or quads): 264 tris
+UV map file name: sprinkler_001_uv1024.png
+Diffuse texture filename: sprinkler_001_tx512.png
+Screenshot filename:
 [add additional file formats and names]
 
 // NOTES //
