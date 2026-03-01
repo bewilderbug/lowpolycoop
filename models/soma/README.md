@@ -20,9 +20,6 @@ Industrial, utility, and construction assets.
 | [pipe_valve_003](pipe_valve_003/) | [x] Integrated |
 | [rail_section_002](rail_section_002/) | [x] Integrated |
 | [roof_vent_001](roof_vent_001/) | [x] Integrated |
-| [sat_dish_001](sat_dish_001/) | [x] Integrated |
-| [sat_dish_002](sat_dish_002/) | [x] Integrated |
-| [sat_dish_003](sat_dish_003/) | [x] Integrated |
 | [security_cam_001](security_cam_001/) | [x] Integrated |
 | [tel_pole_001](tel_pole_001/) | [x] Integrated |
 | [transformer_block_001](transformer_block_001/) | [x] Integrated |
