@@ -21,5 +21,10 @@ Thumbs.db
 *.swp
 *~
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Local Documentation
 docs/
