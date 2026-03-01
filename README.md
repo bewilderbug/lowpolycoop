@@ -49,6 +49,11 @@ The following data reflects the current state of the repository:
 - **Average Model Complexity:** ~318 triangles
 - **Historical Span:** Assets dating back to 2005-2006.
 
+## 📝 Maintenance Notes
+
+- **Texture Recovery:** Due to the migration of legacy files from the mid-2000s, some original textures have not been recovered. We are working to restore these or create suitable low-poly replacements.
+- **Human-Crafted Art:** All models and textures in this repository were originally crafted by human hands. Gemini has been employed solely for administrative and organizational tasks, such as documentation generation, file migrations, and repository maintenance.
+
 ## 📂 Repository Structure
 
 - `/models`: Organized by collection/theme (e.g., Gilman, Solano).
