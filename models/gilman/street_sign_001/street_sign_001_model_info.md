@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 268 tris |
 | **Base Model** | `filename.blend` |
 | **Primary Texture** | `street_sign_001_tex.png` |
 | **UV Template** | `street_sign_001_uv1024.png` |

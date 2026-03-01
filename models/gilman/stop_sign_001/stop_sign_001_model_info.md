@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 376 tris |
 | **Base Model** | `filename.blend` |
 | **Primary Texture** | `stop_sign_tex.png` |
 | **UV Template** | `stop_sign_uv1024.png` |

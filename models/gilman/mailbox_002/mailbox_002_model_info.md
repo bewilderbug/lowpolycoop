@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker |
-| **Geometry** | 130 tris |
+| **Geometry** | 260 tris |
 | **Base Model** | `mailbox_002.blend` |
 | **Primary Texture** | `mailbox_002_tx512.png` |
 | **UV Template** | `mailbox_002_uv1024.png` |

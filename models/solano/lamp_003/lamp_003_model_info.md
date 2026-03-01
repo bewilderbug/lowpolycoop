@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker |
-| **Geometry** |  |
+| **Geometry** | 64 tris |
 | **Base Model** | `lamp_003.blend` |
 | **Primary Texture** | `lamp_003_off_tx512.png, lamp_003_on_tx512.png` |
 | **UV Template** | `lamp_003_uv1024.png` |

@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 152 tris |
 | **Base Model** | `filename.blend` |
 | **Primary Texture** | `traffic_cone_tex.png`, `traffic_cone_tex1024.png` |
 | **UV Template** | `traffic_cone_uv1024.png` |

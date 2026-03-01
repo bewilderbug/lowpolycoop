@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | bewilderbug |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 148 tris |
 | **Base Model** | `fusebox_001.blend` |
 | **Primary Texture** | `filename_tx512.png` |
 | **UV Template** | `filename_uv1024.png` |

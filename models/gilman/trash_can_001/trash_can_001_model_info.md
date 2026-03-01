@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 666 tris |
 | **Base Model** | `filename.blend` |
 | **Primary Texture** | `trash_can_001_tex.png`, `trash_can_001_tx1024.png` |
 | **UV Template** | `trash_can_uv1024.png` |

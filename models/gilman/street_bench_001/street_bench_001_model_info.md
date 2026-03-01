@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 200 tris |
 | **Base Model** | `filename.blend` |
 | **Primary Texture** | `street_bench_tex.png` |
 | **UV Template** | `street_bench_001_uv1024.png` |

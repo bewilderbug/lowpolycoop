@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | [add name(s)] |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 116 tris |
 | **Base Model** | `filename.blend` |
 | **Primary Texture** | `filename_tx512.png` |
 | **UV Template** | `filename_uv1024.png` |

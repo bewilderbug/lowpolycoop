@@ -11,7 +11,7 @@
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
-| **Geometry** | [e.g., 500 Tris] |
+| **Geometry** | 350 tris |
 | **Base Model** | `filename.blend` |
 | **Primary Texture** | `wire_conduit_001_tex.jpg`, `wire_cond_001_tex.png` |
 | **UV Template** | `wire_conduit_001_uv1024.png` |
