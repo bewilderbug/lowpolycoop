@@ -1,2 +1,22 @@
+# Blender
+*.blend[0-9]*
+*.crash.txt
+quit.blend
+
+# Source Image Files
+*.psd
+*.psb
+*.xcf
+*.kra
+
+# OS Specific
 .DS_Store
-*.blend1
+Thumbs.db
+.directory
+.Trash-*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
