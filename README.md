@@ -40,6 +40,15 @@ We welcome new contributions that fit the project's low-poly aesthetic and techn
 2.  Use the [model_info.md](templates/model_info.md) template for your model's documentation.
 3.  Ensure all work submitted is your own original creation.
 
+## 📊 Project Statistics
+
+The following data reflects the current state of the repository:
+
+- **Total Models:** 119
+- **Geometry Range:** 40 to 51,980 triangles
+- **Average Model Complexity:** ~1,374 triangles
+- **Historical Span:** Assets dating back to 2005-2006.
+
 ## 📂 Repository Structure
 
 - `/models`: Organized by collection/theme (e.g., Gilman, Solano).
