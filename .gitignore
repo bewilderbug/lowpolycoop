@@ -20,3 +20,6 @@ Thumbs.db
 .idea/
 *.swp
 *~
+
+# Local Documentation
+docs/
