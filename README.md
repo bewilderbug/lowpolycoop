@@ -44,7 +44,7 @@ We welcome new contributions that fit the project's low-poly aesthetic and techn
 
 The following data reflects the current state of the repository:
 
-- **Total Models:** 115
+- **Total Models:** 108
 - **Geometry Range:** 40 to 966 triangles
 - **Average Model Complexity:** ~318 triangles
 - **Historical Span:** Assets dating back to 2005-2006.

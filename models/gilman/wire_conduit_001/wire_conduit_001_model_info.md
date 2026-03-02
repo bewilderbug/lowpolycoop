@@ -12,7 +12,7 @@
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
 | **Geometry** | 350 tris |
-| **Base Model** | `filename.blend` |
+| **Base Model** | `wire_conduit_001.blend` |
 | **Primary Texture** | `wire_conduit_001_tex.jpg`, `wire_cond_001_tex.png` |
 | **UV Template** | `wire_conduit_001_uv1024.png` |
 | **Source Reference** | `filename_source.jpg` |

@@ -25,16 +25,11 @@ Park, trail, and outdoor recreation assets.
 | [grill_001](grill_001/) | [x] Integrated |
 | [iron_fence_001](iron_fence_001/) | [x] Integrated |
 | [lamp_003](lamp_003/) | [x] Integrated |
-| [lamp_004](lamp_004/) | [x] Integrated |
 | [ohl_trash_can_001](ohl_trash_can_001/) | [x] Integrated |
-| [park_bench_001](park_bench_001/) | [x] Integrated |
 | [park_lamp_001](park_lamp_001/) | [x] Integrated |
-| [park_table_001](park_table_001/) | [x] Integrated |
-| [rock_001](rock_001/) | [x] Integrated |
 | [sign_case_001](sign_case_001/) | [x] Integrated |
 | [trail_barrier_001](trail_barrier_001/) | [x] Integrated |
 | [trail_fence_001](trail_fence_001/) | [x] Integrated |
-| [transformer_block_001](transformer_block_001/) | [x] Integrated |
 
 ## 📅 Latest Update
 - **Last Checked:** 2026-03-01

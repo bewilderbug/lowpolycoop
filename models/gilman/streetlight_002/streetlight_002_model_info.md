@@ -12,7 +12,7 @@
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
 | **Geometry** | 770 tris |
-| **Base Model** | `filename.blend` |
+| **Base Model** | `streetlight_002.blend` |
 | **Primary Texture** | `streetlight_002_tex.jpg`, `streetlight_002_tex.png`, `streetlight_002_tex_lit.jpg`, `streetlight_002_tex_lit.png` |
 | **UV Template** | `streetlight_002_uv1024.png` |
 | **Source Reference** | `filename_source.jpg` |

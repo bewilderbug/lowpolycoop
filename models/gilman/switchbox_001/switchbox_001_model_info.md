@@ -12,7 +12,7 @@
 | :--- | :--- |
 | **Author(s)** | Scott Hsu-Storaker [add name(s)] |
 | **Geometry** | 484 tris |
-| **Base Model** | `filename.blend` |
+| **Base Model** | `switchbox_001.blend` |
 | **Primary Texture** | `switchbox_001_tex.png` |
 | **UV Template** | `switchbox_uv1024.png` |
 | **Source Reference** | `filename_source.jpg` |

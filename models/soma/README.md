@@ -13,9 +13,7 @@ Industrial, utility, and construction assets.
 | [concrete_pipe_001](concrete_pipe_001/) | [x] Integrated |
 | [const_barrier_001](const_barrier_001/) | [x] Integrated |
 | [exterior_lamp_002](exterior_lamp_002/) | [x] Integrated |
-| [fusebox_001](fusebox_001/) | [x] Integrated |
 | [lamp_001](lamp_001/) | [x] Integrated |
-| [lamp_003](lamp_003/) | [x] Integrated |
 | [parking_barrier_002](parking_barrier_002/) | [x] Integrated |
 | [pipe_valve_003](pipe_valve_003/) | [x] Integrated |
 | [rail_section_002](rail_section_002/) | [x] Integrated |

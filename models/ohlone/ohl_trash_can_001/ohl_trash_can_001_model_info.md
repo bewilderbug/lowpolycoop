@@ -12,7 +12,7 @@
 | :--- | :--- |
 | **Author(s)** | [add name(s)] |
 | **Geometry** | 380 tris |
-| **Base Model** | `filename.blend` |
+| **Base Model** | `ohl_trash_can_001.blend` |
 | **Primary Texture** | `filename_tx512.png` |
 | **UV Template** | `filename_uv1024.png` |
 | **Source Reference** | `filename_source.jpg` |
