@@ -6,6 +6,7 @@
 - [ ] **UV Layout Generated** ([User])
 - [ ] **Diffuse Texture Map** ([User])
 - [ ] **Integrated into Repository** ([User])
+- [ ] **Material converted to nodes** ([User])
 
 ## 📊 Technical Details
 | Attribute | Specification |

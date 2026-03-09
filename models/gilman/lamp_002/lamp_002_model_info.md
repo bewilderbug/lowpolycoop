@@ -6,6 +6,7 @@
 - [x] **UV Layout Generated** (bewilderbug)
 - [x] **Diffuse Texture Map** (Terrance M)
 - [x] **Integrated into Repository** (bewilderbug)
+- [ ] **Material converted to nodes**
 
 ## 📊 Technical Details
 | Attribute | Specification |

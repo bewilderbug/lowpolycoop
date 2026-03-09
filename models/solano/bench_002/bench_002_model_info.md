@@ -1,19 +1,19 @@
-# iron_fence_001
+# bench_002
 
 ## 🛠 Status
-- [x] **Model Created** (bewilderbug) ([User])
+- [ ] **Model Created** ([User])
 - [ ] **UV Unwrapped** ([User])
 - [ ] **UV Layout Generated** ([User])
 - [ ] **Diffuse Texture Map** ([User])
 - [ ] **Integrated into Repository** ([User])
-- [ ] **Material converted to nodes**
+- [ ] **Material converted to nodes** ([User])
 
 ## 📊 Technical Details
 | Attribute | Specification |
 | :--- | :--- |
 | **Author(s)** | [add name(s)] |
-| **Geometry** | 416 tris |
-| **Base Model** | `iron_fence_001.blend` |
+| **Geometry** | [e.g., 500 Tris] |
+| **Base Model** | `bench_002.blend` |
 | **Primary Texture** | `filename_tx512.png` |
 | **UV Template** | `filename_uv1024.png` |
 | **Source Reference** | `filename_source.jpg` |

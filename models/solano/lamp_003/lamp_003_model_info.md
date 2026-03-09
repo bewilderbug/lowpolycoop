@@ -6,6 +6,7 @@
 - [ ] **UV Layout Generated** (claimed (bewilderbug))
 - [ ] **Diffuse Texture Map** (claimed (bewilderbug))
 - [ ] **Integrated into Repository** (claimed (bewilderbug))
+- [ ] **Material converted to nodes**
 
 ## 📊 Technical Details
 | Attribute | Specification |

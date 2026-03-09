@@ -6,6 +6,7 @@
 - [x] **UV Layout Generated** (Emily Huffman)
 - [x] **Diffuse Texture Map** (Emily Huffman and bewilderbug)
 - [x] **Integrated into Repository** (bewilderbug)
+- [ ] **Material converted to nodes**
 
 ## 📊 Technical Details
 | Attribute | Specification |

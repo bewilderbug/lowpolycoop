@@ -26,5 +26,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Local Documentation
+# Local Documentation and tools
 docs/
+tools/
+
+# Gemini CLI
+.gemini/
+.geminiignore
+GEMINI.md
